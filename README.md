@@ -45,18 +45,7 @@ Validation ensures that only positive values are accepted; invalid input trigger
 Results are displayed using printf in a structured format.
 
 📖 Example Usage
-Enter expenses for Week 1:  
-Groceries: 120  
-Rent: 500  
-Utilities: 80  
-Total for Week 1 = 700
-
-Enter expenses for Week 2:  
-Groceries: 150  
-Rent: 500  
-Utilities: 90  
-Total for Week 2 = 740
-
+![alt text](image.png)
 Comparison: Spending increased by 40 compared to last week.
 
 🧑‍💻 How I Built It
